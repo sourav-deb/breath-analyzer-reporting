@@ -1,0 +1,50 @@
+Pages
+    Login
+        - Username
+        - Password
+        - Forgot Password
+            - Sent Email (Provided Email ID)
+
+    Dashboard
+        - Conduct Test
+            - Reshuffle
+            - Save Random Generated List
+            - Conduct Individual Test
+                - Form
+            - Generate Report
+                - Send Report (Email)
+        - Employee
+            - Display Employee List
+                - Edit Individual Record
+            - Add New Employee
+                - Form
+        - Medical Officer
+            - Display MO List
+                - Edit Individual Record
+            - Add New MO
+                - Form
+        - Reports
+            - Search Bar
+            - Sort By Button
+            - Test Report (Sort By Date) default
+                - View
+                    - Send Report (Email)
+                - Print
+        - Settings
+            - Edit Settings
+    Content-Section
+        - Header
+            - Page Title
+            - Date & Time
+            - Profile Name
+                - Logout
+    Left-Navigation
+        - Menu Items
+    Report-Section
+        - HTML page for PDF generation
+            - By fetching data from DB to HTML page
+        - PDF Generated
+        - Send Email
+            - By attaching PDF file
+
+
